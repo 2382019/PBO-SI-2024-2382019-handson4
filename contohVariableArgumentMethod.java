@@ -1,4 +1,4 @@
-public class contohVariableArgumentMetod {
+public class contohVariableArgumentMethod {
     //method yang parameternya bervariasi dan banyak
     public static int jumlahkan(int... angka){
         int total = 0;
